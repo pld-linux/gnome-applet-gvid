@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://kvand.mit.edu/gvid/gvid-%{version}.tar.gz
+# Source0-md5:	12e1cc0a683c601b5df902f16f782d20
 URL:		http://kvand.mit.edu/gvid/
 BuildRequires:	autoconf
 BuildRequires:	gnome-libs-devel
