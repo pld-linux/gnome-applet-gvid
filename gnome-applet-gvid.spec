@@ -16,7 +16,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Essentially, gvid lets you change video modes under X. That's it.
-It'll display a little monitor icon your gnome panel. Click on the
+It'll display a little monitor icon your GNOME panel. Click on the
 monitor icon to pop up a list of available modes. If you are running
 dual or multi-head displays, it will give you a list of screens so you
 can select the appropriate one.
