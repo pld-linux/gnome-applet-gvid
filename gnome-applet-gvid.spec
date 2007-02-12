@@ -1,5 +1,5 @@
 Summary:	gvid lets you change video modes under X
-Summary(pl):	Aplikacja pozwalaj±ca zmieniaæ tryby graficzne pod X
+Summary(pl.UTF-8):   Aplikacja pozwalajÄ…ca zmieniaÄ‡ tryby graficzne pod X
 Name:		gnome-applet-gvid
 Version:	0.3
 Release:	1
@@ -21,11 +21,11 @@ monitor icon to pop up a list of available modes. If you are running
 dual or multi-head displays, it will give you a list of screens so you
 can select the appropriate one.
 
-%description -l pl
-gvid pozwala zmieniaæ tryby graficzne pod X. Wy¶wietla ma³± ikonê
-z monitorem w panelu GNOME. Po klikniêciu pokazuje listê dostêpnych
-trybów. W przypadku pracy na wielu monitorach pozwala wybraæ, którego
-ma dotyczyæ zmiana.
+%description -l pl.UTF-8
+gvid pozwala zmieniaÄ‡ tryby graficzne pod X. WyÅ›wietla maÅ‚Ä… ikonÄ™
+z monitorem w panelu GNOME. Po klikniÄ™ciu pokazuje listÄ™ dostÄ™pnych
+trybÃ³w. W przypadku pracy na wielu monitorach pozwala wybraÄ‡, ktÃ³rego
+ma dotyczyÄ‡ zmiana.
 
 %prep
 %setup -q -n gvid-%{version}
