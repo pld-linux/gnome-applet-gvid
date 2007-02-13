@@ -1,5 +1,5 @@
 Summary:	gvid lets you change video modes under X
-Summary(pl.UTF-8):   Aplikacja pozwalająca zmieniać tryby graficzne pod X
+Summary(pl.UTF-8):	Aplikacja pozwalająca zmieniać tryby graficzne pod X
 Name:		gnome-applet-gvid
 Version:	0.3
 Release:	1
